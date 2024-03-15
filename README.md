@@ -12,8 +12,8 @@ This project demo displays food truck locations on a Google Map. The locations a
 
 ### Config the Map id and Map key
 set up the map id and map key configration in .env
-REACT_APP_GOOGLE_MAPS_KEY=xxxxxxx
-REACT_APP_GOOGLE_MAPS_MAPID=xxxxx
+-  REACT_APP_GOOGLE_MAPS_KEY=xxxxxxx
+-  REACT_APP_GOOGLE_MAPS_MAPID=xxxxx
 
 ### Available Scripts
 
