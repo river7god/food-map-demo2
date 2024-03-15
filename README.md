@@ -1,11 +1,13 @@
 # Food Map
 
-This project is
+This project demo displays food truck locations on a Google Map. The locations are loaded from a CSV file.
 
 
 ## Screenshot
 
 
+
+![show](https://github.com/river7god/food-map-demo2/blob/main/screenshot.png?raw=true "show")
 ## Start the project
 
 ### Config the Map id and Map key
